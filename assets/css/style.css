@@ -1271,3 +1271,13 @@ section {
     padding: 5px 0;
   }
 }
+
+.download-btn.action {
+  background-color: rgb(250, 242, 242) !important;
+  color: #47536e !important;
+}
+
+.download-btn.action:hover {
+  transform: scale(1.02);
+
+}
